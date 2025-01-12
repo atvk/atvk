@@ -41,8 +41,7 @@
 
 ## Портфолио:
 
-<div>
-  <div>
+  <div align="center">
     <a href="https://stellar-burgers-indol.vercel.app">
       <img src="./image/project/stellar.png" title="stellar-burger" alt="stellar-burger" width="230" height="150"> 
     </a>&nbsp;
@@ -71,7 +70,7 @@
       <img src="./image/project/horses.png" title="four-horses-club" alt="four-horses-club" width="230" height="150"> 
     </a>&nbsp;
   </div>
-</div>
+
 
 
 
