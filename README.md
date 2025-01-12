@@ -64,7 +64,7 @@
       <img src="./image/project/slogno.png" title="slozhno-sosredotochitsya" alt="slozhno-sosredotochitsya" width="230" height="150"> 
     </a>&nbsp;
     <a href="https://quiz-app-inky-xi.vercel.app">
-      <img src="./image/project/quiz.png" title="quiz-app" alt="quiz-app" width="230" height="150"> 
+      <img src="./image/project/quiz_logo.png" title="quiz-app" alt="quiz-app" width="230" height="150"> 
     </a>&nbsp;
     <a href="https://four-horses-club.vercel.app">
       <img src="./image/project/horses.png" title="four-horses-club" alt="four-horses-club" width="230" height="150"> 
