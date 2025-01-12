@@ -6,20 +6,21 @@
 
 ## Обо мне:
 
-Меня зовут Антон, мне уже 39 лет и я активно ищу интересную работу в IT. 
-Да я не молод, но за спиной 15 лет опыта в клиентском сервисе и это очень хороший бэкграунд для фронтенда, 
-я действительно много знаю о современном клиенте, о его ожиданиях и болях и о том как превратить негативный опыт в позитив! 
+Меня зовут Антон, мне уже 39 лет и я активно ищу интересную работу в IT.
+Да я не молод, но за спиной 15 лет опыта в клиентском сервисе и это очень хороший бэкграунд для фронтенда,
+я действительно много знаю о современном клиенте, о его ожиданиях и болях и о том как превратить негативный опыт в позитив!
 
 Все эти знания не будут лишними😄
 
-Подошло к концу моё обучение в <a href="https://practicum.yandex.ru/frontend-developer/?from=catalog" target="_blank">Яндекс.Практикуме</a> и мне необходим опыт коммерческой разработки. 
+Подошло к концу моё обучение в <a href="https://practicum.yandex.ru/frontend-developer/?from=catalog" target="_blank">Яндекс.Практикуме</a> и мне необходим опыт коммерческой разработки.
+
 ## Мои контакты:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anton_steblovskii)
 
 ## Мой стек:
 
-<div id="stack">
+<div id="stack" align="center">
   <img id="stack-img" src="./image/html5-original.svg" title="HTML5" alt="HTML5" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./image/css3-original.svg" title="CSS3" alt="CSS3" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./image/sass-original.svg" title="Sass\Scss" alt="Sass\Scss" width="50px" height="50px">&nbsp
@@ -38,29 +39,40 @@
   <img id="stack-img" src="./image/vercel.svg" title="Vercel" alt="Vercel" width="50px" height="50px">&nbsp
 </div>
 
-## Портфолио:
+## Деплои моих проектов:
 
 <div>
   <div>
     <a href="https://stellar-burgers-indol.vercel.app">
       <img src="./image/project/stellar.png" title="stellar-burger" alt="stellar-burger" width="230" height="150"> 
     </a>&nbsp;
-    <a href="https://quiz-app-inky-xi.vercel.app">
-      <img src="./image/project/quiz.png" title="quiz" alt="quiz" width="230" height="150"> 
+    <a href="https://blog-customizer-rho.vercel.app">
+      <img src="./image/project/customizer.png" title="blog-customizer" alt="blog-customizer" width="230" height="150"> 
     </a>&nbsp;
     <a href="https://atvk.github.io/mesto-project-ff">
-      <img src="./image/project/mesto.png" title="mesto" alt="mesto" width="230" height="150"> 
+      <img src="./image/project/mesto.png" title="mesto-project" alt="mesto-project" width="230" height="150"> 
+    </a>&nbsp;
+    <a href="https://ono-tebe-nado-drab.vercel.app">
+      <img src="./image/project/nado.png" title="ono-tebe-nado" alt="ono-tebe-nado" width="230" height="150"> 
+    </a>&nbsp;
+    <a href="https://posmotri-v-okno-topaz.vercel.app">
+      <img src="./image/project/okno.png" title="posmotri-v-okno" alt="posmotri-v-okno" width="230" height="150"> 
+    </a>&nbsp;
+    <a href="https://zakrivayuschiy-teg-f-woad.vercel.app">
+      <img src="./image/project/teg.png" title="zakrivayuschiy-teg" alt="zakrivayuschiy-teg" width="230" height="150"> 
+    </a>&nbsp;
+    <a href="https://slozhno-sosredotochitsya-alpha.vercel.app">
+      <img src="./image/project/slogno.png" title="slozhno-sosredotochitsya" alt="slozhno-sosredotochitsya" width="230" height="150"> 
+    </a>&nbsp;
+    <a href="https://quiz-app-inky-xi.vercel.app">
+      <img src="./image/project/quiz.png" title="quiz-app" alt="quiz-app" width="230" height="150"> 
+    </a>&nbsp;
+    <a href="https://four-horses-club.vercel.app">
+      <img src="./image/project/horses.png" title="four-horses-club" alt="four-horses-club" width="230" height="150"> 
     </a>&nbsp;
   </div>
 </div>
 
-## Деплои моих проектов:
 
-https://stellar-burgers-indol.vercel.app/
-https://quiz-app-inky-xi.vercel.app/
-https://blog-customizer-rho.vercel.app/
-https://atvk.github.io/mesto-project-ff/
-https://ono-tebe-nado-drab.vercel.app/
-https://posmotri-v-okno-topaz.vercel.app/
-https://zakrivayuschiy-teg-f-woad.vercel.app/
-https://slozhno-sosredotochitsya-alpha.vercel.app/
+
+
