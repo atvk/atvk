@@ -39,7 +39,7 @@
   <img id="stack-img" src="./image/vercel.svg" title="Vercel" alt="Vercel" width="50px" height="50px">&nbsp
 </div>
 
-## Деплои моих проектов:
+## Портфолио:
 
 <div>
   <div>
