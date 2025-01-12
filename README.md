@@ -63,6 +63,9 @@
     <a href="https://slozhno-sosredotochitsya-alpha.vercel.app">
       <img src="./image/project/slogno.png" title="slozhno-sosredotochitsya" alt="slozhno-sosredotochitsya" width="230" height="150"> 
     </a>&nbsp;
+    <a href="https://web-larek-frontend-omega.vercel.app">
+      <img src="./image/project/larek.png" title="web-larek" alt="web-larek" width="230" height="150"> 
+    </a>&nbsp;
     <a href="https://quiz-app-inky-xi.vercel.app">
       <img src="./image/project/quiz_logo.png" title="quiz-app" alt="quiz-app" width="230" height="150"> 
     </a>&nbsp;
