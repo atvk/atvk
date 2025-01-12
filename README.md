@@ -20,14 +20,37 @@
 ## Мой стек:
 
 <div id="stack">
-  
+  <img id="stack-img" src="./image/html5-original.svg" title="HTML5" alt="HTML5" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./image/css3-original.svg" title="CSS3" alt="CSS3" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./image/sass-original.svg" title="Sass\Scss" alt="Sass\Scss" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./image/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./image/typescript.svg" title="TypeScript" alt="TypeScript" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./image/react-hook-form-logo-only.svg" title="ReactHookForm" alt="ReactHookForm" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./image/redux-original.svg" title="Redux" alt="Redux" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./image/react-original.svg" title="React" alt="React" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./image/webpack-original.svg" title="Webpack" alt="Webpack" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./image/storybook-original.svg" title="Storybook" alt="Storybook" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./image/nodejs-original.svg" title="Node.js" alt="Node.js" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./image/next-js.svg" title="NextJS" alt="NextJS" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./image/tailwind-css-2.svg" title="TailwinCSS" alt="TailwinCSS" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./image/git-original.svg" title="Git" alt="Git" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./image/vscode-original.svg" title="VSCode" alt="VSCode" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./image/vercel.svg" title="Vercel" alt="Vercel" width="50px" height="50px">&nbsp
 </div>
 
 ## Портфолио:
 
 <div>
   <div>
-    
+    <a href="https://stellar-burgers-indol.vercel.app">
+      <img src="./image/project/stellar.png" title="stellar-burger" alt="stellar-burger" width="230" height="150"> 
+    </a>&nbsp;
+    <a href="https://quiz-app-inky-xi.vercel.app">
+      <img src="./image/project/quiz.png" title="quiz" alt="quiz" width="230" height="150"> 
+    </a>&nbsp;
+    <a href="https://atvk.github.io/mesto-project-ff">
+      <img src="./image/project/mesto.png" title="mesto" alt="mesto" width="230" height="150"> 
+    </a>&nbsp;
   </div>
 </div>
 
