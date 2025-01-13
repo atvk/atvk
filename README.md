@@ -16,7 +16,7 @@
 Сейчас подошло к концу моё обучение в <a href="https://practicum.yandex.ru/frontend-developer/?from=catalog" target="_blank">Яндекс.Практикуме</a> и 
 я ищу работу, где смогу применить свои новые навыки и опыт в деле.
 
-Итак что я умею?
+Итак, что я умею?
 
 Да собственно всё, что есть в программе курса <a href="https://practicum.yandex.ru/frontend-developer/?from=catalog" target="_blank">Фронтенд-разработчик</a>
 
