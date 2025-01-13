@@ -80,8 +80,14 @@ HTML CSS SCSS Flexbox Git Bash JavaScript TypeScript React Redux Grid Layout DOM
     <a href="https://posmotri-v-okno-topaz.vercel.app">
       <img src="./image/project/okno.png" title="posmotri-v-okno" alt="posmotri-v-okno" width="230" height="150"> 
     </a>&nbsp;
-    
   </div>
+
+  ##  GitHub stats
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atvk&layout=compact)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=atvk)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
