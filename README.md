@@ -20,7 +20,7 @@
 
 Да собственно всё, что есть в программе курса <a href="https://practicum.yandex.ru/frontend-developer/?from=catalog" target="_blank">Фронтенд-разработчик</a>
 
-HTML CSS SCSS Flexbox Git Bash JavaScript TypeScript React Redux Grid Layout DOM Webpack Vite React Router ООП, Next.js и Tailwind. 
+HTML CSS SCSS Flexbox Git Bash JavaScript TypeScript React Redux Grid Layout DOM Webpack Vite React Router ООП NextJS Tailwind. 
 
 ## Мои контакты:
 
